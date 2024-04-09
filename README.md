@@ -1,6 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (John(%^&|Cruz)|https://github.com/jocruz)" title="👋 Hi there! I'm (John(%^&|Cruz)|https://github.com/jocruz)"/>](https://github.com/jocruz)
-
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Tech Wizard: Mastering Web 3, passionate about Web 2, and a one-man tech powerhouse.
 - 💼 Seeking Adventure: On a quest to blend the realms of Security and Development into my next big role.
