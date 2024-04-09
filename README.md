@@ -13,11 +13,11 @@
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-    - Go on a Muy Thai Camp to get better at Striking!
-    - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 or anything really 𝚝𝚘 𝚝𝚑𝚎 [ThirdWeb Github/Company](https://github.com/thirdweb-dev)
-    - Know my way around a Kali linux machine.
-    - Mentor others, I feel the world is in need of better teachers, mentors, and motivators in this space.
-    - Get a job where I can utilize my web developement skills, research skills, and security knowledge.
+-  Go on a Muy Thai Camp to get better at Striking!
+- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 or anything really 𝚝𝚘 𝚝𝚑𝚎 [ThirdWeb Github/Company](https://github.com/thirdweb-dev)
+-  Know my way around a Kali linux machine.
+-    Mentor others, I feel the world is in need of better teachers, mentors, and motivators in this space.
+-       Get a job where I can utilize my web developement skills, research skills, and security knowledge.
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 -->
 <!--START_SECTION:activity-->
