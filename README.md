@@ -7,8 +7,8 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- A freelance developer with Moverz, I'm sculpting the future of the internet, one Web 3 DApp at a time, propelling us and our clients into a new digital era.
-- Just aced my Sec+ 701 and now I'm gearing up to conquer the world of web penetration, fortifying my expertise in cybersecurity!
+- A freelance developer with Moverz, I'm sculpting the future of the internet, one Web 3 DApp at a time
+- Just aced my Sec+ 701 and now I'm gearing up to conquer the world of web penetration!
 ```
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
