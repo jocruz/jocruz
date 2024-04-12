@@ -74,7 +74,3 @@ An NFT marketplace that integrates Stripe for payment processing, showcasing sea
 A DApp for minting NFTs on the Solana blockchain, leveraging Metaplex's Candy Machine for drop management and various wallets for transactions. This project highlights the use of modern web technologies and blockchain integration to provide a scalable and efficient NFT minting service.
 
 These projects represent a diverse portfolio ranging from web development and blockchain solutions to complex algorithmic challenges, illustrating my ability to adapt and excel in multiple aspects of software engineering. Each project underscores my commitment to leveraging technology to solve real-world problems effectively and efficiently.
-
----
-
-This summary provides a succinct overview of each project while maintaining a focus on your skills and the technologies used. It's designed to give potential employers or collaborators a quick insight into your capabilities and the scope of your work.
