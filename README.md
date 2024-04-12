@@ -49,5 +49,32 @@ For now Email is fine! Johncruzag@gmail.com
 
 Wondering why the shift from full-stack to security, especially when my GitHub screams full-stack mastery? It's all about staying ahead in the game. The job market and global tech trends are pivoting towards AI and security – the next frontier. While my heart beats for creation, the winds of change are blowing, and I'm sailing towards the future, adapting and evolving with the world's tech needs. Who knows, in 2025, we all might be needing security engineers protecting our assests in the web 3 space as much as we needed them in web 2.
 
+Below you will find my Pinned Projects explained and summarized just in case.
 
+---
 
+## Pinned Projects Explained
+
+### Java Projects Portfolio
+A suite of Java projects demonstrating proficiency in data structures and algorithms, including applications like a Baseball Card Manager, Baccarat game, Scheduler Manager, and a Stony Brook Bus Simulator. This portfolio showcases advanced Java programming with a focus on real-world applications and theoretical concepts like arrays, linked lists, stacks, queues, and graph-based systems.
+
+### Handball Hub - Sports Web Application
+A comprehensive web application designed to serve the handball community with features for player and tournament management, including a score-keeping application for referees. Built using React, Next.js, Prisma, PostgreSQL, and Chakra UI, it emphasizes robust data management and user-friendly design.
+
+### Wallet-Integrated Payment System
+This project integrates Stripe payments and Thirdweb Engine to manage cryptocurrency transactions and NFT subscriptions. It addresses the complexities of blockchain interactions and provides a high-transaction-throughput solution, supporting over 1000 EVM blockchains.
+
+### Crossmint Coding Challenge
+A solution to a complex coding challenge involving API interactions and array matrix manipulations to manage and organize data efficiently. This project demonstrates advanced problem-solving skills and an ability to handle rate limits and API errors using axios-retry.
+
+### NFT Marketplace with Stripe Integration
+An NFT marketplace that integrates Stripe for payment processing, showcasing seamless NFT purchases. The project is built on the Next.js framework and integrates the Thirdweb SDK for blockchain operations, focusing on a user-friendly purchasing experience.
+
+### Lost Cats NFT Minting DApp
+A DApp for minting NFTs on the Solana blockchain, leveraging Metaplex's Candy Machine for drop management and various wallets for transactions. This project highlights the use of modern web technologies and blockchain integration to provide a scalable and efficient NFT minting service.
+
+These projects represent a diverse portfolio ranging from web development and blockchain solutions to complex algorithmic challenges, illustrating my ability to adapt and excel in multiple aspects of software engineering. Each project underscores my commitment to leveraging technology to solve real-world problems effectively and efficiently.
+
+---
+
+This summary provides a succinct overview of each project while maintaining a focus on your skills and the technologies used. It's designed to give potential employers or collaborators a quick insight into your capabilities and the scope of your work.
