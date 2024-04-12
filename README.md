@@ -53,7 +53,7 @@ Below you will find my Pinned Projects explained and summarized just in case.
 
 ---
 
-## Pinned Projects Explained
+## Pinned Projects Explained For Employers
 
 ### Java Projects Portfolio
 A suite of Java projects demonstrating proficiency in data structures and algorithms, including applications like a Baseball Card Manager, Baccarat game, Scheduler Manager, and a Stony Brook Bus Simulator. This portfolio showcases advanced Java programming with a focus on real-world applications and theoretical concepts like arrays, linked lists, stacks, queues, and graph-based systems.
