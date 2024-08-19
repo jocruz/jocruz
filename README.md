@@ -15,9 +15,9 @@
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 -  Go on a Muy Thai Camp to get better at Striking!
 - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 more freelance projects with Moverz utilizing [ThirdWeb Github/Company](https://github.com/thirdweb-dev)
--  Know my way around a Kali linux machine.
--    Mentor others, I feel the world is in need of better teachers, mentors, and motivators in this space.
--       Get a job where I can utilize my web developement skills, research skills, and security knowledge.
+- Know my way around a Kali linux machine.
+- Mentor others, I feel the world is in need of better teachers, mentors, and motivators in this space.
+- Get a job where I can utilize my web development skills, research skills, and security knowledge.
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 -->
 <!--START_SECTION:activity-->
