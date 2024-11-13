@@ -16,6 +16,7 @@ A curated selection of my projects in full-stack development across Web 3, block
 - 🖥 **Full Stack Developer with a Cybersecurity Edge**: Worked with React.js, Next.js, Prisma, Node.js, and a growing focus on application security.
 - 🔒 **Web Application Security Professional**: Demonstrated proficiency in securing web applications, specializing in identifying and mitigating vulnerabilities aligned with the OWASP Top 10.
 - 🎓 **Industry-Certified Knowledge**:
+  
    - **Practical Junior Web Tester (PJWT)** by TCM Security – Hands-on experience with OWASP methodologies, pen testing, and web application security. [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)
   
    - **CompTIA Security+** – Broad knowledge of security principles and practices. [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)
