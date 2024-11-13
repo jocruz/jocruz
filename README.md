@@ -76,13 +76,17 @@ I completed the **Python 101 for Hackers** course by TCM Security, where I gaine
 - **Username and Password Brute Forcer Tool**: Tests common username and password combinations on web-based login forms, underscoring the need for strong authentication.
 
 ---
-### 🖥️ Java Projects Portfolio
-A comprehensive collection of Java projects demonstrating advanced understanding of data structures, algorithms, and real-world applications. Highlights include a Baseball Card Manager, Baccarat game, Scheduler Manager, and Stony Brook Bus Simulator, showcasing proficiency in arrays, linked lists, stacks, queues, and graph-based systems.
+### 💳 Wallet-Integrated Payment System
+Integrates Stripe payments and Thirdweb Engine to manage cryptocurrency transactions and NFT subscriptions, supporting scalability across over 1000 EVM blockchains for high transaction throughput.
 
 **🔍 What I Learned:**
-- 📊 Advanced Java programming concepts: applying data structures like linked lists, stacks, queues, and graph systems.
-- 🧩 Object-oriented programming practices: encapsulation, inheritance, and polymorphism within each project.
-- 🌍 Real-world application of theoretical concepts to build functioning applications.
+- 🛠️ Advanced integration of blockchain technology with traditional payment gateways like Stripe.
+- 🔄 High-throughput transaction management across multiple EVM blockchains.
+- 🛡️ Addressing security and scalability challenges specific to financial and blockchain systems.
+- 📚 Used Thirdweb SDK, Magic SDK, Stripe API/Webhook, ReactJS, TypeScript
+- 🔗 Integration of blockchain operations with e-commerce using the Thirdweb SDK.
+- 🛍️ Improving user experience in blockchain applications by simplifying payment and purchasing flows.
+- 🔐 Addressing security challenges specific to handling digital assets and payments.
 
 ### 🏆 Handball Hub - Sports Web Application
 A dynamic platform designed to support the handball community, featuring robust data management for player and tournament organization. Built with React, Next.js, Prisma, PostgreSQL, and Chakra UI, it emphasizes intuitive user design and high-efficiency data handling.
@@ -92,14 +96,13 @@ A dynamic platform designed to support the handball community, featuring robust 
 - 🎨 Building user-centric, responsive UIs with Chakra UI, enhancing the user experience.
 - 💾 Handling and managing data for efficient storage and retrieval in large-scale applications.
 
-### 💳 Wallet-Integrated Payment System
-Integrates Stripe payments and Thirdweb Engine to manage cryptocurrency transactions and NFT subscriptions, supporting scalability across over 1000 EVM blockchains for high transaction throughput.
+### 🖥️ Java Projects Portfolio
+A comprehensive collection of Java projects demonstrating advanced understanding of data structures, algorithms, and real-world applications. Highlights include a Baseball Card Manager, Baccarat game, Scheduler Manager, and Stony Brook Bus Simulator, showcasing proficiency in arrays, linked lists, stacks, queues, and graph-based systems.
 
 **🔍 What I Learned:**
-- 🛠️ Advanced integration of blockchain technology with traditional payment gateways like Stripe.
-- 🔄 High-throughput transaction management across multiple EVM blockchains.
-- 🛡️ Addressing security and scalability challenges specific to financial and blockchain systems.
-- 📚 Used Thirdweb SDK, Magic SDK, Stripe API/Webhook, ReactJS, TypeScript
+- 📊 Advanced Java programming concepts: applying data structures like linked lists, stacks, queues, and graph systems.
+- 🧩 Object-oriented programming practices: encapsulation, inheritance, and polymorphism within each project.
+- 🌍 Real-world application of theoretical concepts to build functioning applications.
 
 ### 📈 Crossmint Coding Challenge
 A complex coding challenge solution focused on efficient data organization through API interactions and array manipulations, with solutions for rate limit handling and API error management using `axios-retry`.
@@ -109,15 +112,7 @@ A complex coding challenge solution focused on efficient data organization throu
 - 🗃️ Efficient data management and organization using array manipulation techniques.
 - 🧠 Problem-solving under constraints like rate limits, improving solution efficiency.
 
-### 🛒 NFT Marketplace with Stripe Integration
-An NFT marketplace facilitating seamless NFT purchases, with Stripe integration for streamlined payment processing. Built on the Next.js framework and utilizing the Thirdweb SDK, it combines blockchain operations with a user-centric purchasing experience.
-
-**🔍 What I Learned:**
-- 🔗 Integration of blockchain operations with e-commerce using the Thirdweb SDK.
-- 🛍️ Improving user experience in blockchain applications by simplifying payment and purchasing flows.
-- 🔐 Addressing security challenges specific to handling digital assets and payments.
-
-### 🐱 Lost Cats NFT Minting DApp
+### 🐱 Lost Cats UI NFT Minting DApp
 Developed a scalable NFT minting service for the Solana blockchain, employing Metaplex's Candy Machine and wallet support for efficient drop management.
 
 **🔍 What I Learned:**
