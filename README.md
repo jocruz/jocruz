@@ -34,10 +34,18 @@ A curated selection of my projects in full-stack development across Web 3, block
 - Cybersecurity Training: Deepening expertise through the Practical Junior Penetration Tester (PJPT) certification to excel in Active Directory and Network Pen Testing (PJPT).
 ```
 
+## 🚀 Current Focus & Future Aspirations
+
+🔨 **Professional Commitments**:
+```yaml
+- Freelance Developer with Moverz: Pioneering Web 3 applications and contributing to multiple decentralized projects.
+- Cybersecurity Training: Currently pursuing the Practical Junior Penetration Tester (PJPT) certification, focusing on Active Directory and Network Pen Testing.
+```
+
 🎯 **Upcoming Goals**:
-- 🥋 **Enhance Skills in Brazillian Jit Jitsu**: Focusing on discipline and resilience through martial arts.
-- 🛡 **Community Mentor**: Dedicated to teaching and mentoring in tech to cultivate a skilled and motivated community. Currently in the TCM Security Discord, in the past I contributed to Hashlips, Stractor, and Thirdweb Discord.
-- 🌐 **Secure a Specialized Role**: Aspiring to combine web development, security insights, and a deep technical skill set to address complex application security challenges.
+- 🥋 **Continue Developing Web Application Security Expertise**: Following my PJPT, I plan to deepen my skills specifically in web application penetration testing through advanced TCM Security courses. My long-term goal is to specialize as a Web Application Security Engineer or Penetration Tester, a field that brings fresh challenges and fuels my drive to learn and innovate.
+- 🛡 **Community Mentor**: Dedicated to teaching and mentoring in tech to cultivate a skilled and motivated community. Currently active in the TCM Security Discord, and previously contributed to communities like Hashlips, Stractor, and Thirdweb.
+- 🌐 **Secure a Specialized Role**: Aspiring to combine my web development and security insights to address complex application security challenges effectively.
 
 ---
 
