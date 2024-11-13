@@ -9,6 +9,7 @@ A curated selection of my projects in full-stack development across Web 3, block
 - **Lost Cats NFT Minting DApp**: [lost-cats-ui.vercel.app](https://lost-cats-ui.vercel.app/)
 - **Personal Portfolio**: [johncruz.info](https://www.johncruz.info/)
 - **Take Home Magic Login with Google Auth**: [Project Demo](https://vercel.com/johncruzaggmailcoms-projects/take-home-debug/7dKJs7RespUj9muNNkCjEfMMRpZw)
+-  **Python Security Scripts part of TCM Security Training** [Repo](https://github.com/jocruz/PySecScripts)
 
 ---
 
