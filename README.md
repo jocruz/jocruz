@@ -14,28 +14,18 @@ A curated selection of my projects in full-stack development across Web 3, block
 ---
 
 ## 📋 About Me
-- 🖥 **Full Stack Developer with a Cybersecurity Edge**: Worked with React.js, Next.js, Prisma, Node.js, and a growing focus on application security.
-- 🔒 **Web Application Security Professional**: Demonstrated proficiency in securing web applications, specializing in identifying and mitigating vulnerabilities aligned with the OWASP Top 10.
-- 🎓 **Industry-Certified Knowledge**:
-  
-     - **Practical Junior Web Tester (PJWT)** by TCM Security – Hands-on experience with OWASP methodologies, pen testing, and web application security. [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)
-  
-     - **CompTIA Security+** – Broad knowledge of security principles and practices. [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)
+- 🖥 **Full Stack Developer with a Focus on Security**: Experienced in building robust applications using technologies like React.js, Next.js, Prisma, and Node.js, with an evolving interest in secure coding practices and application security.
+- 🔒 **Web Application Security Practitioner**: Skilled in identifying and mitigating vulnerabilities, particularly those aligned with the OWASP Top 10, as part of hands-on penetration testing and secure development practices.
+- 🎓 **Industry Certifications**:
+    - **Practical Junior Web Tester (PJWT)** by TCM Security – Practical experience in penetration testing, leveraging OWASP methodologies to identify and address web application vulnerabilities. [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)
+    - **CompTIA Security+** – Comprehensive understanding of foundational security principles and practices. [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)
 
 <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png" alt="PWPA TCM Cert" width="200"/> <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png" alt="SecurityPlus Certified CE" width="200"/>
 
-- 🎓 **Academic Foundation**: Graduated from Stony Brook University with a degree in Information Systems Engineering and a minor in Technological Systems Management.
-- 📫 **Get in Touch**: [johncruzag@gmail.com](mailto:johncruzag@gmail.com)
+- 🎓 **Educational Background**: Bachelor’s degree in Information Systems Engineering with a minor in Technological Systems Management from Stony Brook University.
+- 📫 **Connect with Me**: [johncruzag@gmail.com](mailto:johncruzag@gmail.com)
 
 ---
-
-## 🚀 Current Focus & Future Aspirations
-
-🔨 **Professional Commitments**:
-```yaml
-- Freelance Developer with Moverz: Pioneering Web 3 applications and contributing to multiple decentralized projects.
-- Cybersecurity Training: Deepening expertise through the Practical Junior Penetration Tester (PJPT) certification to excel in Active Directory and Network Pen Testing (PJPT).
-```
 
 ## 🚀 Current Focus & Future Aspirations
 
