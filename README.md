@@ -28,15 +28,20 @@ Explore a curated selection of my work in full-stack development, showcasing exp
 ## 📋 About Me
 - 🖥 **Full Stack Developer with a Focus on Security**: Experienced in building robust applications using technologies like React.js, Next.js, Prisma, and Node.js, with an evolving interest in secure coding practices and application security.
 - 🔒 **Web Application Security Practitioner**: Skilled in identifying and mitigating vulnerabilities, particularly those aligned with the OWASP Top 10, as part of hands-on penetration testing and secure development practices.
-- 🎓 **Industry Certifications**:
-    - **Practical Web Pentest Associate (PWPA)** by TCM Security : Demonstrated hands-on expertise in web application penetration testing by working with the OWASP Top 10 vulnerabilities. To earn the certification, I successfully exploited a web application using various tools and techniques, including authentication and authorization attacks, injection vulnerabilities, and insecure configurations. The process culminated in writing a detailed, professional CVSS-based penetration testing report, showcasing the ability to communicate findings and provide remediation strategies effectively.
- [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)
-    - **CompTIA Security+** – Comprehensive understanding of foundational security principles and practices. [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)
-
-<img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png" alt="PWPA TCM Cert" width="200"/> <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png" alt="SecurityPlus Certified CE" width="200"/>
-
 - 🎓 **Educational Background**: Bachelor’s degree in Information Systems Engineering with a minor in Technological Systems Management from Stony Brook University.
 - 📫 **Connect with Me**: [johncruzag@gmail.com](mailto:johncruzag@gmail.com)
+
+---
+
+## 🏆 Industry Certifications
+- **Practical Web Pentest Associate (PWPA)** by TCM Security:  
+   Demonstrated hands-on expertise in web application penetration testing by working with the OWASP Top 10 vulnerabilities. To earn the certification, I successfully exploited a web application using various tools and techniques, including authentication and authorization attacks, injection vulnerabilities, and insecure configurations. The process culminated in writing a detailed, professional CVSS-based penetration testing report, showcasing the ability to communicate findings and provide remediation strategies effectively.  
+   [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)  
+   ![PWPA TCM Cert](https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png)
+
+- **CompTIA Security+**: Comprehensive understanding of foundational security principles and practices.  
+   [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)  
+   ![SecurityPlus Certified CE](https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png)
 
 ---
 
