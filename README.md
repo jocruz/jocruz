@@ -45,7 +45,7 @@ Explore a curated selection of my work in full-stack development, showcasing exp
 
 - **Practical Junior Penetration Tester (PJPT)** by TCM Security:  
    Validated proficiency in performing internal network penetration testing, including Active Directory exploitation, reconnaissance, scanning, enumeration, and exploitation techniques. Successfully demonstrated lateral and vertical movements across network systems to compromise the exam Domain Controller. Delivered a comprehensive, professionally written penetration test report, including detailed findings, CVSS-based vulnerability assessments, and actionable remediation strategies.  
-   [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)
+   [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)  
    <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PJPT%20TCM%20Cert.png" alt="PJPT TCM Cert" width="200"/>
 
 ---
