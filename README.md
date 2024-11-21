@@ -1,15 +1,27 @@
 
 # John Cruz | Full Stack Developer & Cybersecurity Enthusiast
 
-## 🌐 Portfolio of Work
-A curated selection of my projects in full-stack development across Web 3, blockchain, and Web 2 technologies:
+## 💼 Professional Portfolio
 
-- **Moverz Groupies**: [purchase.ligroupies.com](https://purchase.ligroupies.com/)
-- **Moverz NFT Hidden Treasure**: [purchase.hiddentreasureli.com](https://purchase.hiddentreasureli.com/)
-- **Lost Cats NFT Minting DApp**: [lost-cats-ui.vercel.app](https://lost-cats-ui.vercel.app/)
-- **Personal Portfolio**: [johncruz.info](https://www.johncruz.info/)
-- **Take Home Magic Login with Google Auth**: [Project Demo](https://vercel.com/johncruzaggmailcoms-projects/take-home-debug/7dKJs7RespUj9muNNkCjEfMMRpZw)
--  **Python Security Scripts part of TCM Security Training** [Repo](https://github.com/jocruz/PySecScripts)
+Explore a curated selection of my work in full-stack development, showcasing expertise in Web 2, Web 3, and blockchain technologies:
+
+- **Moverz Groupies NFT Platform**: [purchase.ligroupies.com](https://purchase.ligroupies.com/)  
+  A minting platform designed for NFT ticketing with seamless user experience and blockchain integration.
+
+- **Moverz NFT Hidden Treasure**: [purchase.hiddentreasureli.com](https://purchase.hiddentreasureli.com/)  
+  An interactive NFT minting dApp with treasure hunt mechanics and wallet support.
+
+- **Lost Cats NFT Minting DApp**: [lost-cats-ui.vercel.app](https://lost-cats-ui.vercel.app/)  
+  Developed a user-friendly interface for minting unique digital collectibles.
+
+- **Personal Portfolio**: [johncruz.info](https://www.johncruz.info/)  
+  A showcase of my professional journey, skills, and projects.
+
+- **Take-Home Magic Login Project**: [Project Demo](https://vercel.com/johncruzaggmailcoms-projects/take-home-debug/7dKJs7RespUj9muNNkCjEfMMRpZw)  
+  Implemented Google Authentication with seamless user onboarding for a technical challenge.
+
+- **Python Security Scripts**: [GitHub Repository](https://github.com/jocruz/PySecScripts)  
+  Scripts created as part of TCM Security training, focusing on practical security automation.
 
 ---
 
