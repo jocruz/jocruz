@@ -1,7 +1,7 @@
 
 # John Cruz | Full Stack Developer & Cybersecurity Enthusiast
 
-## 💼 Professional Portfolio
+## 🖥️ Professional Portfolio
 
 Explore a curated selection of my work in full-stack development, showcasing expertise in Web 2, Web 3, and blockchain technologies:
 
