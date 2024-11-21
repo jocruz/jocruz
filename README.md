@@ -1,5 +1,5 @@
 
-# John Cruz | Full Stack Developer & Cybersecurity Enthusiast
+# John Cruz | Full Stack Developer & Cybersecurity Practitioner
 
 ## 🖥️ Professional Portfolio
 
@@ -37,13 +37,16 @@ Explore a curated selection of my work in full-stack development, showcasing exp
 - **Practical Web Pentest Associate (PWPA)** by TCM Security:  
    Demonstrated hands-on expertise in web application penetration testing by working with the OWASP Top 10 vulnerabilities. To earn the certification, I successfully exploited a web application using various tools and techniques, including authentication and authorization attacks, injection vulnerabilities, and insecure configurations. The process culminated in writing a detailed, professional CVSS-based penetration testing report, showcasing the ability to communicate findings and provide remediation strategies effectively.  
    [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)  
-   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png"
- alt="PWPA TCM Cert" width="200"/>
+   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png" alt="PWPA TCM Cert" width="200"/>
 
 - **CompTIA Security+**: Comprehensive understanding of foundational security principles and practices.  
    [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)  
-    <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png"
- alt="SecurityPlus Certified CE" width="200"/>
+   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png" alt="SecurityPlus Certified CE" width="200"/>
+
+- **Practical Junior Penetration Tester (PJPT)** by TCM Security:  
+   Validated proficiency in performing internal network penetration testing, including Active Directory exploitation, reconnaissance, scanning, enumeration, and exploitation techniques. Successfully demonstrated lateral and vertical movements across network systems to compromise the exam Domain Controller. Delivered a comprehensive, professionally written penetration test report, including detailed findings, CVSS-based vulnerability assessments, and actionable remediation strategies.  
+   [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)  
+   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PJPT%20TCM%20Cert.png" alt="PJPT TCM Cert" width="200"/>
 
 ---
 
