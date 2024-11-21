@@ -22,8 +22,7 @@ A curated selection of my projects in full-stack development across Web 3, block
   
      - **CompTIA Security+** – Broad knowledge of security principles and practices. [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)
 
-<img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png" alt="PWPA TCM Cert" width="200"/>
-<img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png" alt="SecurityPlus Certified CE" width="200"/>
+<img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png" alt="PWPA TCM Cert" width="200"/> <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png" alt="SecurityPlus Certified CE" width="200"/>
 
 - 🎓 **Academic Foundation**: Graduated from Stony Brook University with a degree in Information Systems Engineering and a minor in Technological Systems Management.
 - 📫 **Get in Touch**: [johncruzag@gmail.com](mailto:johncruzag@gmail.com)
