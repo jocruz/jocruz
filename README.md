@@ -54,15 +54,14 @@ Explore a curated selection of my work in full-stack development, showcasing exp
 
 🔨 **Professional Commitments**:
 ```yaml
-- Freelance Developer with Moverz: Pioneering Web 3 applications and contributing to multiple decentralized projects.
-- Cybersecurity Training: Currently pursuing the Practical Junior Penetration Tester (PJPT) certification, focusing on Active Directory and Network Pen Testing.
+- Freelance Developer with Moverz: Driving innovation in Web 3 applications and contributing to decentralized project development.
+- Cybersecurity Training: Completed the Practical Junior Penetration Tester (PJPT) certification, with a focus on Active Directory and Network Penetration Testing.
 ```
 
 🎯 **Upcoming Goals**:
-- 🥋 **Continue Developing Web Application Security Expertise**: Following my PJPT, I plan to deepen my skills specifically in web application penetration testing through advanced TCM Security courses. My long-term goal is to specialize as a Web Application Security Engineer or Penetration Tester, a field that brings fresh challenges and fuels my drive to learn and innovate.
-- 🛡 **Community Mentor**: Dedicated to teaching and mentoring in tech to cultivate a skilled and motivated community. Currently active in the TCM Security Discord, and previously contributed to communities like Hashlips, Stractor, and Thirdweb.
-- 🌐 **Secure a Specialized Role**: Aspiring to combine my web development and security insights to address complex application security challenges effectively.
-
+- 🥋 **Advance Web Application Security Expertise**: Building on my PJPT certification, my next milestone is earning the TCM Security Practical Web Application Penetration Tester (PWPP) certification. This will sharpen my skills in web application security and penetration testing, aligning with my goal to specialize as a Web Application Security Engineer or a Security Role.
+- 🛡 **Community Mentor**: Committed to fostering a motivated and skilled tech community. Actively mentoring in the TCM Security Discord and previously contributed to communities like Hashlips, Stractor, and Thirdweb.
+- 🌐 **Secure a Specialized Role in Application Security**: Leveraging my combined expertise in web development and security to tackle complex application security challenges.
 ---
 
 ## 📌 Pinned Projects: In-Depth
