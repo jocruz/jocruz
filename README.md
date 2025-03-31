@@ -1,5 +1,14 @@
 # John Cruz | Full Stack Developer & Cybersecurity Practitioner
 
+## Web Application Security Knowledge Base (GitBook)
+
+Explore my practical experience, research, and insights in web application security, including detailed technical analyses, real-world case studies, PortSwigger labs, and Hack The Box walkthroughs. This resource highlights vulnerabilities such as SQL Injection, NoSQL Injection, Race Conditions, SSRF, and more, showcasing my penetration testing methodology and providing actionable recommendations from both offensive and defensive perspectives.
+
+[Visit my GitBook](https://johncruz.info/appsec)
+
+
+---
+
 ## Professional Portfolio
 
 Explore a selection of my full-stack Blockchain SaaS Platform development and cybersecurity projects:
@@ -24,15 +33,6 @@ Explore a selection of my full-stack Blockchain SaaS Platform development and cy
 
 - **Python Security Scripts**: [GitHub Repository](https://github.com/jocruz/PySecScripts)  
   Python scripts focused on practical security automation tasks.
-
----
-
-## Web Application Security Knowledge Base (GitBook)
-
-Explore my practical experience, research, and insights in web application security, including detailed technical analyses, real-world case studies, PortSwigger labs, and Hack The Box walkthroughs. This resource highlights vulnerabilities such as SQL Injection, NoSQL Injection, Race Conditions, SSRF, and more, showcasing my penetration testing methodology and providing actionable recommendations from both offensive and defensive perspectives.
-
-[Visit my GitBook](https://johncruz.info/appsec)
-
 
 ---
 
