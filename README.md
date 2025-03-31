@@ -27,11 +27,12 @@ Explore a selection of my full-stack Blockchain SaaS Platform development and cy
 
 ---
 
-## About Me
-- **Full Stack Developer Focused on Cybersecurity**: Experienced in React.js, Next.js, Prisma, and Node.js, with a growing expertise in web application security and penetration testing.
-- **Web Application Security Skills**: Hands-on experience identifying and mitigating OWASP Top 10 vulnerabilities through penetration testing.
-- **Education**: Bachelor's degree in Information Systems Engineering from Stony Brook University.
-- **Contact**: [johncruzag@gmail.com](mailto:johncruzag@gmail.com)
+## Web Application Security Knowledge Base (GitBook)
+
+Explore my practical experience, research, and insights in web application security, including detailed technical analyses, real-world case studies, PortSwigger labs, and Hack The Box walkthroughs. This resource highlights vulnerabilities such as SQL Injection, NoSQL Injection, Race Conditions, SSRF, and more, showcasing my penetration testing methodology and providing actionable recommendations from both offensive and defensive perspectives.
+
+[Visit my GitBook](https://johncruz.info/appsec)
+
 
 ---
 
