@@ -38,17 +38,17 @@ Explore a selection of my full-stack Blockchain SaaS Platform development and cy
 
 ## Industry Certifications
 - **Practical Web Pentest Professional (PWPP)** | TCM Security  
-  Intermediate-level penetration testing certification assessing skills in advanced web vulnerabilities such as NoSQL injection, race conditions, mass assignment, SSRF, and template injection.  
+  The PWPP certification validates my ability to perform comprehensive web application penetration tests, focusing on advanced vulnerabilities such as NoSQL Injection, SSRF, Race Conditions,  Mass Assignment, and Template Injection. Unlike traditional capture-the-flag (CTF) certifications, the PWPP emphasizes realistic scenarios, report writing, and practical methodologies.  
   [Certification Link](https://certified.tcm-sec.com/d7737546-ac9c-4066-83f1-fac586877f9d)  
   <img src="https://github.com/user-attachments/assets/855d9b59-7b9c-4608-a10d-8175c8017bcf" alt="PWPP TCM Cert" width="200"/>
   
 - **Practical Junior Penetration Tester (PJPT)** | TCM Security  
-  Expertise in internal network penetration testing, Active Directory exploitation, and reporting.  
+  The PJPT certification assesses internal network and Active Directory penetration testing skills. It covers enumeration, misconfiguration identification, privilege escalation, and domain compromise, complementing my web application security knowledge.
   [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)  
   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PJPT%20TCM%20Cert.png" alt="PJPT TCM Cert" width="200"/>
   
 - **Practical Web Pentest Associate (PWPA)** | TCM Security  
-  Skilled in web application penetration testing, OWASP Top 10 vulnerabilities, and detailed security reporting.  
+ The PWPA certification demonstrates my foundational expertise in identifying and exploiting common web vulnerabilities, including SQL Injection, Cross-Site Scripting (XSS), and File Inclusion. Like the PWPP, it emphasizes practical, scenario-based testing and professional reporting.
   [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)  
   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png" alt="PWPA TCM Cert" width="200"/>
 
