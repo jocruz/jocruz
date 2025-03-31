@@ -35,8 +35,13 @@ Explore a selection of my full-stack Blockchain SaaS Platform development and cy
 
 ---
 
-## Industry Certifications
 
+## Industry Certifications
+- **Practical Web Pentest Professional (PWPP)** | TCM Security  
+  Intermediate-level penetration testing certification assessing skills in advanced web vulnerabilities such as NoSQL injection, race conditions, mass assignment, SSRF, and template injection.  
+  [Certification Link](https://certified.tcm-sec.com/d7737546-ac9c-4066-83f1-fac586877f9d)  
+  <img src="https://github.com/user-attachments/assets/855d9b59-7b9c-4608-a10d-8175c8017bcf" alt="PWPP TCM Cert" width="200"/>
+  
 - **Practical Junior Penetration Tester (PJPT)** | TCM Security  
   Expertise in internal network penetration testing, Active Directory exploitation, and reporting.  
   [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)  
