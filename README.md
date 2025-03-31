@@ -33,6 +33,12 @@ Explore a selection of my full-stack development and cybersecurity projects:
 ---
 
 ## Industry Certifications
+
+- **Practical Junior Penetration Tester (PJPT)** | TCM Security  
+  Expertise in internal network penetration testing, Active Directory exploitation, and reporting.  
+  [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)  
+  <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PJPT%20TCM%20Cert.png" alt="PJPT TCM Cert" width="200"/>
+  
 - **Practical Web Pentest Associate (PWPA)** | TCM Security  
   Skilled in web application penetration testing, OWASP Top 10 vulnerabilities, and detailed security reporting.  
   [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)  
@@ -42,8 +48,3 @@ Explore a selection of my full-stack development and cybersecurity projects:
   Comprehensive foundational cybersecurity knowledge.  
   [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)  
   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png" alt="SecurityPlus Certified CE" width="200"/>
-
-- **Practical Junior Penetration Tester (PJPT)** | TCM Security  
-  Expertise in internal network penetration testing, Active Directory exploitation, and reporting.  
-  [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)  
-  <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PJPT%20TCM%20Cert.png" alt="PJPT TCM Cert" width="200"/>
