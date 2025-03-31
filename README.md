@@ -7,10 +7,10 @@ Explore a selection of my full-stack Blockchain SaaS Platform development and cy
 - **Moverz Gamified App**: [MoverzApp](https://www.moverzapp.com/)  
   Gamified app allowing users to discover local brands, earn digital tokens, and unlock exclusive rewards through repeated interactions.
   
-- **Moverz Groupies NFT Ticketing Platform**: [purchase.ligroupies.com](https://purchase.ligroupies.com/)  
+- **Moverz Groupies NFT Ticketing SaaS Platform**: [purchase.ligroupies.com](https://purchase.ligroupies.com/)  
   NFT ticketing platform with blockchain integration.
 
-- **Moverz NFT Hidden Treasure Ticketing Platform**: [purchase.hiddentreasureli.com](https://purchase.hiddentreasureli.com/)  
+- **Moverz NFT Hidden Treasure Ticketing SaaS Platform**: [purchase.hiddentreasureli.com](https://purchase.hiddentreasureli.com/)  
   Interactive NFT minting platform with gamified treasure hunts.
   
 - **Lost Cats NFT Minting DApp**: [lost-cats-ui.vercel.app](https://lost-cats-ui.vercel.app/)  
