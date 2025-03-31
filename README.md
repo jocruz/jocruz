@@ -37,22 +37,22 @@ Explore a selection of my full-stack Blockchain SaaS Platform development and cy
 
 
 ## Industry Certifications
-- **Practical Web Pentest Professional (PWPP)** | TCM Security  
+- **Practical Web Pentest Professional (PWPP) Jan 2025** | TCM Security  
   The PWPP certification validates my ability to perform comprehensive web application penetration tests, focusing on advanced vulnerabilities such as NoSQL Injection, SSRF, Race Conditions,  Mass Assignment, and Template Injection. Unlike traditional capture-the-flag (CTF) certifications, the PWPP emphasizes realistic scenarios, report writing, and practical methodologies.  
   [Certification Link](https://certified.tcm-sec.com/d7737546-ac9c-4066-83f1-fac586877f9d)  
   <img src="https://github.com/user-attachments/assets/855d9b59-7b9c-4608-a10d-8175c8017bcf" alt="PWPP TCM Cert" width="200"/>
   
-- **Practical Junior Penetration Tester (PJPT)** | TCM Security  
+- **Practical Junior Penetration Tester (PJPT) Nov 2024** | TCM Security  
   The PJPT certification assesses internal network and Active Directory penetration testing skills. It covers enumeration, misconfiguration identification, privilege escalation, and domain compromise, complementing my web application security knowledge.
   [Certification Link](https://certified.tcm-sec.com/006bf430-1660-4ee2-adda-d5cda8608055#gs.hyszjg)  
   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PJPT%20TCM%20Cert.png" alt="PJPT TCM Cert" width="200"/>
   
-- **Practical Web Pentest Associate (PWPA)** | TCM Security  
+- **Practical Web Pentest Associate (PWPA) July 2024** | TCM Security  
  The PWPA certification demonstrates my foundational expertise in identifying and exploiting common web vulnerabilities, including SQL Injection, Cross-Site Scripting (XSS), and File Inclusion. Like the PWPP, it emphasizes practical, scenario-based testing and professional reporting.
   [Certification Link](https://certified.tcm-sec.com/4a803568-86d5-4150-924f-9cc6173eff74?key=a2d2b570e775b4a2f78622e7443351b05e021fcc03edfc9961ad3456ae9a1f8a&record_view=true#acc.D9ydv0fu)  
   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/PWPA%20TCM%20Cert.png" alt="PWPA TCM Cert" width="200"/>
 
-- **CompTIA Security+**  
+- **CompTIA Security+ SY0-701 April 2024**  
   Comprehensive foundational cybersecurity knowledge.  
   [Certification Link](https://www.credly.com/badges/7d06c8d7-ce80-4094-b87d-4ddced0d0bce/public_url)  
   <img src="https://raw.githubusercontent.com/jocruz/jocruz/main/Certification%20Badges/SecurityPlus%20Logo%20Certified%20CE.png" alt="SecurityPlus Certified CE" width="200"/>
